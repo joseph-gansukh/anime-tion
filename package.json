@@ -8,12 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "animejs": "^3.1.0",
-<<<<<<< HEAD
     "gh-pages": "^2.2.0",
-=======
-    "node-sass": "^4.13.1",
-    "normalize.css": "^8.0.1",
->>>>>>> 9db58b76f58f4e7bced8d4676863838101f829a9
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.1"
