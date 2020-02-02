@@ -3,7 +3,7 @@
 Testing out animejs for animations. 
 
 ## Getting Started
-  -- npm install 
+  - npm install 
 
 ### Spin up the project
-  -- npm start 
+  - npm start 
