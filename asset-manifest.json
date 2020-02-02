@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/anime-tion/static/css/main.d1b05096.chunk.css",
-    "main.js": "/anime-tion/static/js/main.4743ba2b.chunk.js",
-    "main.js.map": "/anime-tion/static/js/main.4743ba2b.chunk.js.map",
+    "main.css": "/anime-tion/static/css/main.f6f21a78.chunk.css",
+    "main.js": "/anime-tion/static/js/main.8faf3c6d.chunk.js",
+    "main.js.map": "/anime-tion/static/js/main.8faf3c6d.chunk.js.map",
     "runtime-main.js": "/anime-tion/static/js/runtime-main.83701880.js",
     "runtime-main.js.map": "/anime-tion/static/js/runtime-main.83701880.js.map",
-    "static/js/2.3a17b6f0.chunk.js": "/anime-tion/static/js/2.3a17b6f0.chunk.js",
-    "static/js/2.3a17b6f0.chunk.js.map": "/anime-tion/static/js/2.3a17b6f0.chunk.js.map",
+    "static/css/2.764ccc25.chunk.css": "/anime-tion/static/css/2.764ccc25.chunk.css",
+    "static/js/2.78f4f806.chunk.js": "/anime-tion/static/js/2.78f4f806.chunk.js",
+    "static/js/2.78f4f806.chunk.js.map": "/anime-tion/static/js/2.78f4f806.chunk.js.map",
     "index.html": "/anime-tion/index.html",
-    "precache-manifest.876f601e2c83d005169db240093a7597.js": "/anime-tion/precache-manifest.876f601e2c83d005169db240093a7597.js",
+    "precache-manifest.6de9fbe3f2abdce460630f6bc2ce634e.js": "/anime-tion/precache-manifest.6de9fbe3f2abdce460630f6bc2ce634e.js",
     "service-worker.js": "/anime-tion/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/anime-tion/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3a17b6f0.chunk.js.LICENSE.txt": "/anime-tion/static/js/2.3a17b6f0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/anime-tion/static/media/logo.5d5d9eef.svg"
+    "static/css/2.764ccc25.chunk.css.map": "/anime-tion/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.f6f21a78.chunk.css.map": "/anime-tion/static/css/main.f6f21a78.chunk.css.map",
+    "static/js/2.78f4f806.chunk.js.LICENSE.txt": "/anime-tion/static/js/2.78f4f806.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83701880.js",
-    "static/js/2.3a17b6f0.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4743ba2b.chunk.js"
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.78f4f806.chunk.js",
+    "static/css/main.f6f21a78.chunk.css",
+    "static/js/main.8faf3c6d.chunk.js"
   ]
 }
