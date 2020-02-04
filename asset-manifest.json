@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anime-tion/static/css/main.f6f21a78.chunk.css",
-    "main.js": "/anime-tion/static/js/main.8faf3c6d.chunk.js",
-    "main.js.map": "/anime-tion/static/js/main.8faf3c6d.chunk.js.map",
+    "main.js": "/anime-tion/static/js/main.72e2663d.chunk.js",
+    "main.js.map": "/anime-tion/static/js/main.72e2663d.chunk.js.map",
     "runtime-main.js": "/anime-tion/static/js/runtime-main.83701880.js",
     "runtime-main.js.map": "/anime-tion/static/js/runtime-main.83701880.js.map",
     "static/css/2.764ccc25.chunk.css": "/anime-tion/static/css/2.764ccc25.chunk.css",
     "static/js/2.78f4f806.chunk.js": "/anime-tion/static/js/2.78f4f806.chunk.js",
     "static/js/2.78f4f806.chunk.js.map": "/anime-tion/static/js/2.78f4f806.chunk.js.map",
     "index.html": "/anime-tion/index.html",
-    "precache-manifest.6de9fbe3f2abdce460630f6bc2ce634e.js": "/anime-tion/precache-manifest.6de9fbe3f2abdce460630f6bc2ce634e.js",
+    "precache-manifest.dec5f03e2d6d53b70037f37fa48bb571.js": "/anime-tion/precache-manifest.dec5f03e2d6d53b70037f37fa48bb571.js",
     "service-worker.js": "/anime-tion/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/anime-tion/static/css/2.764ccc25.chunk.css.map",
     "static/css/main.f6f21a78.chunk.css.map": "/anime-tion/static/css/main.f6f21a78.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.78f4f806.chunk.js",
     "static/css/main.f6f21a78.chunk.css",
-    "static/js/main.8faf3c6d.chunk.js"
+    "static/js/main.72e2663d.chunk.js"
   ]
 }

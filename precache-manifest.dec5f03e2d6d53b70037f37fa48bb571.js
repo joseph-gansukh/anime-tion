@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d7e5d001e8ef6900b09c31022892b09",
+    "revision": "c47c38065348d12c2b3955a8d34d53f4",
     "url": "/anime-tion/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anime-tion/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "2576eca6eb2a9598b826",
+    "revision": "694c2ff665fe811e5b3c",
     "url": "/anime-tion/static/css/main.f6f21a78.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anime-tion/static/js/2.78f4f806.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2576eca6eb2a9598b826",
-    "url": "/anime-tion/static/js/main.8faf3c6d.chunk.js"
+    "revision": "694c2ff665fe811e5b3c",
+    "url": "/anime-tion/static/js/main.72e2663d.chunk.js"
   },
   {
     "revision": "41be5351f10d4aa816f4",
