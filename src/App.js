@@ -17,10 +17,10 @@ class App extends React.Component {
     anime({
       targets: link,
       keyframes: [
-        {delay: 1000, duration: 800, opacity: 1, scale: 2, easing: 'easeInOutQuart'},
+        {delay: 1000, duration: 600, opacity: 1, scale: 1.5, easing: 'easeInOutQuart'},
         {rotate: '1turn', duration: 1000, easing: 'easeInOutQuart'},
         {rotate: '2turn', duration: 1000, easing: 'easeInOutQuart'},
-        {opacity: 0, easing: 'easeInOutQuart', duration: 1000}
+        {scale: 1, easing: 'easeInOutQuart', opacity: 0, duration: 600}
       ]
     })
   }
@@ -28,7 +28,7 @@ class App extends React.Component {
   render() {
     return (
         <div className="button" style={{opacity:`${this.state.opacity}`}} >
-            <a id="link" href="#">JG</a>
+            <a id="link" href="/">JG</a>
         </div>
     )
   }
