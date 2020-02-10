@@ -20,7 +20,7 @@ class App extends React.Component {
         {delay: 1000, duration: 600, opacity: 1, scale: 1.5, easing: 'easeInOutQuart'},
         {rotate: '1turn', duration: 1000, easing: 'easeInOutQuart'},
         {rotate: '2turn', duration: 1000, easing: 'easeInOutQuart'},
-        {scale: 1, easing: 'easeInOutQuart', opacity: 0, duration: 600}
+        {scale: 1, easing: 'easeInOutQuart', opacity: 0, duration: 800}
       ]
     })
   }
