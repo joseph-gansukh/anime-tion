@@ -17,7 +17,7 @@ class App extends React.Component {
     anime({
       targets: link,
       keyframes: [
-        {delay: 1500, duration: 600, opacity: 1, scale: 1.5, easing: 'easeInOutQuart'},
+        {delay: 1500, duration: 600, opacity: 1, scale: 1.6, easing: 'easeInOutQuart'},
         {rotate: '1turn', duration: 1000, easing: 'easeInOutQuart'},
         {rotate: '2turn', duration: 1000, easing: 'easeInOutQuart'},
         {scale: 1, easing: 'easeInOutQuart', opacity: 0, duration: 1000}
